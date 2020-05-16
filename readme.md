@@ -374,6 +374,10 @@
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
 - [Elixir Books](https://github.com/sger/ElixirBooks#readme)
 - [Books Link - 1](https://github.com/sanigo/books)
+- [Hacking-Security-Ebooks](https://github.com/abhinavkorpal/Hacking-Security-Ebooks)
+- [Computer-Science-EBook](https://github.com/abhinavkorpal/awesome-computer-science-EBook)
+- [HeadFirst-e-books](https://github.com/abhinavkorpal/HeadFirst-e-books)
+- [abhinavkorpal-ebook-collection](https://github.com/abhinavkorpal/e-Books)
 
 ## Editors
 
