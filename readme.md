@@ -51,6 +51,7 @@
 
 ## Contents
 
+- [GitHub repo for front-end devloper](#gitHub-repo-for-front-end-devloper)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
@@ -78,6 +79,15 @@
 - [Testing](#testing)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
+
+## GitHub repo for front-end devloper
+- [Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
+- [wtfjs](https://github.com/denysdovhan/wtfjs)
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions)
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [free-for-dev](https://github.com/ripienaar/free-for-dev)
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 ## Platforms
 
